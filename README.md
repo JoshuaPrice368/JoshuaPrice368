@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋🏻 Introducing Myself
 
-<!--
-**JoshuaPrice368/JoshuaPrice368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/user-attachments/assets/bddcc723-5fe0-4e10-b1d6-4b232ae521c6)
 
-Here are some ideas to get you started:
+Hello, My name is Josh. An Entry Level Business/Data analyst showcasing my personal projects as I seek to land a role in data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Querying Data using SQL
+- Developing stunning dashboards using Power BI
+- Data Cleaning and Editing with Excel/SQL
+
+### 📚Projects
+
+
+### 📖 Knowledge
+
+- Language: SQL
+- Visualization: Power Bi
+
