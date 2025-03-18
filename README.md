@@ -8,11 +8,6 @@ Hello, My name is Josh. An Entry Level Business/Data analyst showcasing my perso
 - Developing stunning dashboards using Power BI
 - Data Cleaning and Editing with Excel/SQL
 
-### 📚Portfollio
-
-PENDING
-
-
 ### 📖 Knowledge
 
 - Language: SQL
